@@ -1,4 +1,4 @@
-# Global-Survey-Insight (Creating visulisation via Power BI)
+# Global-Survey-Insight (Power BI)
 This Power BI dashboard explores global data roles, with insights on salaries by role/country, work-life balance, and gender pay gaps. It showcases my skills in data cleaning, analysis, storytelling and turning raw data into clear, interactive insights for entry-level data roles
 
 To demonstrate my data analysis and visualization skills, I worked with global survey data focusing on professionals in roles like data analysts, data scientists, and related positions. The dataset includes insights on job titles, tools used, salaries, and work environments across different countries.
